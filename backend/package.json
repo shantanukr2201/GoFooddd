@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "build": "npm i"
   },
-  "author": "Arshdeep Singh",
+  "author": "Shantanu Kumar Singh",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
